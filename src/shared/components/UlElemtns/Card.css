@@ -1,0 +1,11 @@
+.card {
+  margin: 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 6px;
+  padding: 0px;
+  overflow: hidden;
+  background: rgb(255, 255, 255);
+}
+.card h1{
+  color: black;
+}
